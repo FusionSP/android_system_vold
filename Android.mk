@@ -66,6 +66,7 @@ common_static_libraries := \
 	libbatteryservice \
 	libext2_blkid \
 	libext2_uuid_static \
+	liblz4-static \
 	libsparse_static \
 	libz
 
